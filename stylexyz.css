@@ -1,0 +1,44 @@
+
+html{
+    margin:0;
+    padding: 0}
+
+}
+h1{font-family: cursive;
+    text-align:center;
+    font-size: 2em;
+    background: bisque
+ }
+#slika{align-self: center;
+}
+    h2{
+    color:red;
+    background-color: azure;
+    font-style: italic;
+
+
+}
+
+body{
+    background-image:url(domaci1/pozadina.jpg)
+        }
+p{
+  font-size: 16px;
+    font-family: Ariel, Helvetica, sans-serif
+
+}
+
+#Contact {font: red 14px italic sans-serif}
+.Details {
+    background-color: darkgoldenrod;
+    margin: 0px 20px 0px 20px;
+
+}
+.Search {
+    text-decoration: none;
+    border-style: solid;
+    text-align:right;
+    padding: 3px
+}
+
+
